@@ -1,0 +1,19 @@
+The Cafe Companion
+
+Design a smarter cafe experience powered by AI.
+Cafes are places to work, meet, connect and unwind.
+Your challenge is to create an application or AI agent that makes the cafe experience more personal, convenient and connected for both customers and cafe teams.
+
+MANDATORY
+Your solution must use Google skills - https://github.com/google/skills
+Install the skills
+
+Your solution could explore:
+1. Smarter ORdering:
+    Conversation ordering, preferences and recommendations
+2. Better Waits:
+    Predict wait times, order readiness or the best time to visit
+3. Discovery:
+    Personalised food and drink recommendations
+4. Understand the Room:
+    Use live feedback or sentiment to help cafe teams respond better

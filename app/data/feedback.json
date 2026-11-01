@@ -1,0 +1,10 @@
+[
+  {"id":"f1","customer":"Priya","rating":"up","comment":"The banana bread toasted is such an upgrade. Please never take it off.","item_id":"banana-bread","at":"-182m"},
+  {"id":"f2","customer":"Marcus","rating":"up","comment":"Batch filter was ready instantly and genuinely excellent today.","item_id":"filter-batch","at":"-151m"},
+  {"id":"f3","customer":"Lena","rating":"down","comment":"Waited 14 minutes for a cortado at 9am. The queue wasn't moving and nobody said anything.","item_id":"cortado","at":"-138m"},
+  {"id":"f4","customer":"Tom","rating":"up","comment":"Oat flat white is the best in the area, no contest.","item_id":"oat-flat-white","at":"-96m"},
+  {"id":"f5","customer":"Aisha","rating":"up","comment":"Soup and a sourdough heel for £7 is a steal. Warm and fast.","item_id":"soup-day","at":"-74m"},
+  {"id":"f6","customer":"Dan","rating":"down","comment":"Ran out of almond croissants before 11 again. Third time this month.","item_id":"almond-croissant","at":"-61m"},
+  {"id":"f7","customer":"Ravi","rating":"up","comment":"Asked for something not sweet and got pointed at the long black. Exactly right.","item_id":"long-black","at":"-38m"},
+  {"id":"f8","customer":"Chloe","rating":"up","comment":"Oat milk option on everything makes this my default spot.","item_id":"oat-flat-white","at":"-17m"}
+]

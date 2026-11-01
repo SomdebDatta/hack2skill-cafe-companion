@@ -1,0 +1,422 @@
+[
+ {
+  "day": "Mon",
+  "hour": 7,
+  "orders": 7
+ },
+ {
+  "day": "Mon",
+  "hour": 8,
+  "orders": 24
+ },
+ {
+  "day": "Mon",
+  "hour": 9,
+  "orders": 29
+ },
+ {
+  "day": "Mon",
+  "hour": 10,
+  "orders": 17
+ },
+ {
+  "day": "Mon",
+  "hour": 11,
+  "orders": 11
+ },
+ {
+  "day": "Mon",
+  "hour": 12,
+  "orders": 19
+ },
+ {
+  "day": "Mon",
+  "hour": 13,
+  "orders": 26
+ },
+ {
+  "day": "Mon",
+  "hour": 14,
+  "orders": 16
+ },
+ {
+  "day": "Mon",
+  "hour": 15,
+  "orders": 12
+ },
+ {
+  "day": "Mon",
+  "hour": 16,
+  "orders": 10
+ },
+ {
+  "day": "Mon",
+  "hour": 17,
+  "orders": 6
+ },
+ {
+  "day": "Mon",
+  "hour": 18,
+  "orders": 4
+ },
+ {
+  "day": "Tue",
+  "hour": 7,
+  "orders": 8
+ },
+ {
+  "day": "Tue",
+  "hour": 8,
+  "orders": 26
+ },
+ {
+  "day": "Tue",
+  "hour": 9,
+  "orders": 31
+ },
+ {
+  "day": "Tue",
+  "hour": 10,
+  "orders": 19
+ },
+ {
+  "day": "Tue",
+  "hour": 11,
+  "orders": 12
+ },
+ {
+  "day": "Tue",
+  "hour": 12,
+  "orders": 21
+ },
+ {
+  "day": "Tue",
+  "hour": 13,
+  "orders": 28
+ },
+ {
+  "day": "Tue",
+  "hour": 14,
+  "orders": 17
+ },
+ {
+  "day": "Tue",
+  "hour": 15,
+  "orders": 13
+ },
+ {
+  "day": "Tue",
+  "hour": 16,
+  "orders": 11
+ },
+ {
+  "day": "Tue",
+  "hour": 17,
+  "orders": 7
+ },
+ {
+  "day": "Tue",
+  "hour": 18,
+  "orders": 4
+ },
+ {
+  "day": "Wed",
+  "hour": 7,
+  "orders": 8
+ },
+ {
+  "day": "Wed",
+  "hour": 8,
+  "orders": 27
+ },
+ {
+  "day": "Wed",
+  "hour": 9,
+  "orders": 33
+ },
+ {
+  "day": "Wed",
+  "hour": 10,
+  "orders": 20
+ },
+ {
+  "day": "Wed",
+  "hour": 11,
+  "orders": 13
+ },
+ {
+  "day": "Wed",
+  "hour": 12,
+  "orders": 22
+ },
+ {
+  "day": "Wed",
+  "hour": 13,
+  "orders": 29
+ },
+ {
+  "day": "Wed",
+  "hour": 14,
+  "orders": 18
+ },
+ {
+  "day": "Wed",
+  "hour": 15,
+  "orders": 14
+ },
+ {
+  "day": "Wed",
+  "hour": 16,
+  "orders": 12
+ },
+ {
+  "day": "Wed",
+  "hour": 17,
+  "orders": 7
+ },
+ {
+  "day": "Wed",
+  "hour": 18,
+  "orders": 4
+ },
+ {
+  "day": "Thu",
+  "hour": 7,
+  "orders": 9
+ },
+ {
+  "day": "Thu",
+  "hour": 8,
+  "orders": 28
+ },
+ {
+  "day": "Thu",
+  "hour": 9,
+  "orders": 33
+ },
+ {
+  "day": "Thu",
+  "hour": 10,
+  "orders": 21
+ },
+ {
+  "day": "Thu",
+  "hour": 11,
+  "orders": 13
+ },
+ {
+  "day": "Thu",
+  "hour": 12,
+  "orders": 23
+ },
+ {
+  "day": "Thu",
+  "hour": 13,
+  "orders": 30
+ },
+ {
+  "day": "Thu",
+  "hour": 14,
+  "orders": 18
+ },
+ {
+  "day": "Thu",
+  "hour": 15,
+  "orders": 14
+ },
+ {
+  "day": "Thu",
+  "hour": 16,
+  "orders": 12
+ },
+ {
+  "day": "Thu",
+  "hour": 17,
+  "orders": 8
+ },
+ {
+  "day": "Thu",
+  "hour": 18,
+  "orders": 4
+ },
+ {
+  "day": "Fri",
+  "hour": 7,
+  "orders": 9
+ },
+ {
+  "day": "Fri",
+  "hour": 8,
+  "orders": 31
+ },
+ {
+  "day": "Fri",
+  "hour": 9,
+  "orders": 37
+ },
+ {
+  "day": "Fri",
+  "hour": 10,
+  "orders": 22
+ },
+ {
+  "day": "Fri",
+  "hour": 11,
+  "orders": 14
+ },
+ {
+  "day": "Fri",
+  "hour": 12,
+  "orders": 25
+ },
+ {
+  "day": "Fri",
+  "hour": 13,
+  "orders": 33
+ },
+ {
+  "day": "Fri",
+  "hour": 14,
+  "orders": 20
+ },
+ {
+  "day": "Fri",
+  "hour": 15,
+  "orders": 15
+ },
+ {
+  "day": "Fri",
+  "hour": 16,
+  "orders": 13
+ },
+ {
+  "day": "Fri",
+  "hour": 17,
+  "orders": 8
+ },
+ {
+  "day": "Fri",
+  "hour": 18,
+  "orders": 5
+ },
+ {
+  "day": "Sat",
+  "hour": 7,
+  "orders": 3
+ },
+ {
+  "day": "Sat",
+  "hour": 8,
+  "orders": 7
+ },
+ {
+  "day": "Sat",
+  "hour": 9,
+  "orders": 14
+ },
+ {
+  "day": "Sat",
+  "hour": 10,
+  "orders": 24
+ },
+ {
+  "day": "Sat",
+  "hour": 11,
+  "orders": 29
+ },
+ {
+  "day": "Sat",
+  "hour": 12,
+  "orders": 27
+ },
+ {
+  "day": "Sat",
+  "hour": 13,
+  "orders": 25
+ },
+ {
+  "day": "Sat",
+  "hour": 14,
+  "orders": 20
+ },
+ {
+  "day": "Sat",
+  "hour": 15,
+  "orders": 16
+ },
+ {
+  "day": "Sat",
+  "hour": 16,
+  "orders": 12
+ },
+ {
+  "day": "Sat",
+  "hour": 17,
+  "orders": 8
+ },
+ {
+  "day": "Sat",
+  "hour": 18,
+  "orders": 5
+ },
+ {
+  "day": "Sun",
+  "hour": 7,
+  "orders": 3
+ },
+ {
+  "day": "Sun",
+  "hour": 8,
+  "orders": 6
+ },
+ {
+  "day": "Sun",
+  "hour": 9,
+  "orders": 12
+ },
+ {
+  "day": "Sun",
+  "hour": 10,
+  "orders": 20
+ },
+ {
+  "day": "Sun",
+  "hour": 11,
+  "orders": 25
+ },
+ {
+  "day": "Sun",
+  "hour": 12,
+  "orders": 23
+ },
+ {
+  "day": "Sun",
+  "hour": 13,
+  "orders": 21
+ },
+ {
+  "day": "Sun",
+  "hour": 14,
+  "orders": 17
+ },
+ {
+  "day": "Sun",
+  "hour": 15,
+  "orders": 14
+ },
+ {
+  "day": "Sun",
+  "hour": 16,
+  "orders": 10
+ },
+ {
+  "day": "Sun",
+  "hour": 17,
+  "orders": 7
+ },
+ {
+  "day": "Sun",
+  "hour": 18,
+  "orders": 4
+ }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "somdeb",
+    "name": "Somdeb",
+    "visits": 47,
+    "member_since": "2025-03-14",
+    "preferences": {
+      "dietary": [],
+      "likes": ["oat milk", "strong coffee", "not too sweet"],
+      "avoids": ["syrups"],
+      "usual_time": "08:40"
+    },
+    "usual": [
+      {"item_id": "oat-flat-white", "qty": 1},
+      {"item_id": "butter-croissant", "qty": 1}
+    ],
+    "history": ["oat-flat-white","oat-flat-white","cortado","oat-flat-white","butter-croissant","long-black","oat-flat-white","avo-toast"]
+  },
+  {
+    "id": "priya",
+    "name": "Priya",
+    "visits": 23,
+    "member_since": "2025-06-02",
+    "preferences": {
+      "dietary": ["vegan"],
+      "likes": ["decaf", "spiced drinks", "afternoon pastries"],
+      "avoids": ["dairy", "caffeine after 2pm"],
+      "usual_time": "15:10"
+    },
+    "usual": [
+      {"item_id": "decaf-latte", "qty": 1},
+      {"item_id": "banana-bread", "qty": 1}
+    ],
+    "history": ["decaf-latte","banana-bread","peppermint-tea","masala-chai","decaf-latte","soup-day","banana-bread"]
+  },
+  {
+    "id": "arjun",
+    "name": "Arjun",
+    "visits": 0,
+    "member_since": null,
+    "preferences": {
+      "dietary": [],
+      "likes": [],
+      "avoids": [],
+      "usual_time": null
+    },
+    "usual": [],
+    "history": []
+  }
+]

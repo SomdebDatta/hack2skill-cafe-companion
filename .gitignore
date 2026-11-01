@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+
+# Google skills are vendored in from github.com/google/skills by the command in
+# SKILLS.md. Not committed: they are Google's Apache-2.0 content, and redistributing
+# them here would mean shipping their LICENSE/NOTICE too. Re-install with:
+#   claude plugin marketplace add google/skills
+.claude/

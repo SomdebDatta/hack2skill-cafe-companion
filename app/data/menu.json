@@ -1,0 +1,319 @@
+[
+ {
+  "id": "flat-white",
+  "name": "Flat White",
+  "category": "coffee",
+  "price": 3.8,
+  "prep_minutes": 3,
+  "tags": [
+   "warm",
+   "caffeine",
+   "classic",
+   "milky"
+  ],
+  "note": "Double shot under velvet microfoam. Our most-ordered drink.",
+  "premade": false
+ },
+ {
+  "id": "oat-flat-white",
+  "name": "Oat Flat White",
+  "category": "coffee",
+  "price": 4.2,
+  "prep_minutes": 3,
+  "tags": [
+   "warm",
+   "caffeine",
+   "vegan",
+   "milky",
+   "classic"
+  ],
+  "note": "Barista oat steams sweeter than dairy \u2014 no sugar needed.",
+  "premade": false
+ },
+ {
+  "id": "cortado",
+  "name": "Cortado",
+  "category": "coffee",
+  "price": 3.4,
+  "prep_minutes": 2,
+  "tags": [
+   "warm",
+   "caffeine",
+   "strong",
+   "small",
+   "quick"
+  ],
+  "note": "Equal parts espresso and milk. In and out in two minutes.",
+  "premade": false
+ },
+ {
+  "id": "long-black",
+  "name": "Long Black",
+  "category": "coffee",
+  "price": 3.2,
+  "prep_minutes": 2,
+  "tags": [
+   "warm",
+   "caffeine",
+   "strong",
+   "not-sweet",
+   "quick"
+  ],
+  "note": "Two shots over hot water. Keeps the crema intact.",
+  "premade": false
+ },
+ {
+  "id": "filter-batch",
+  "name": "Batch Filter",
+  "category": "coffee",
+  "price": 2.8,
+  "prep_minutes": 1,
+  "tags": [
+   "warm",
+   "caffeine",
+   "not-sweet",
+   "quick",
+   "light"
+  ],
+  "note": "Today: Ethiopian Guji \u2014 stone fruit and jasmine. Already brewed.",
+  "premade": true
+ },
+ {
+  "id": "mocha",
+  "name": "Mocha",
+  "category": "coffee",
+  "price": 4.5,
+  "prep_minutes": 4,
+  "tags": [
+   "warm",
+   "caffeine",
+   "sweet",
+   "chocolate",
+   "indulgent"
+  ],
+  "note": "65% Valrhona melted into the shot, not powder.",
+  "premade": false
+ },
+ {
+  "id": "decaf-latte",
+  "name": "Decaf Latte",
+  "category": "coffee",
+  "price": 4.0,
+  "prep_minutes": 3,
+  "tags": [
+   "warm",
+   "caffeine-free",
+   "milky",
+   "gentle"
+  ],
+  "note": "Swiss-water decaf, so you still get the body.",
+  "premade": false
+ },
+ {
+  "id": "matcha-latte",
+  "name": "Matcha Latte",
+  "category": "tea",
+  "price": 4.6,
+  "prep_minutes": 4,
+  "tags": [
+   "warm",
+   "caffeine",
+   "green",
+   "milky",
+   "vegan-option"
+  ],
+  "note": "Ceremonial grade, whisked to order. Grassy, not sweet.",
+  "premade": false
+ },
+ {
+  "id": "masala-chai",
+  "name": "Masala Chai",
+  "category": "tea",
+  "price": 3.6,
+  "prep_minutes": 5,
+  "tags": [
+   "warm",
+   "caffeine",
+   "spiced",
+   "milky",
+   "comfort"
+  ],
+  "note": "Simmered with cardamom and ginger. Worth the five minutes.",
+  "premade": false
+ },
+ {
+  "id": "earl-grey",
+  "name": "Earl Grey",
+  "category": "tea",
+  "price": 2.9,
+  "prep_minutes": 2,
+  "tags": [
+   "warm",
+   "caffeine",
+   "not-sweet",
+   "light",
+   "quick"
+  ],
+  "note": "Bergamot-forward, loose leaf, three-minute steep.",
+  "premade": false
+ },
+ {
+  "id": "peppermint-tea",
+  "name": "Peppermint Tea",
+  "category": "tea",
+  "price": 2.7,
+  "prep_minutes": 2,
+  "tags": [
+   "warm",
+   "caffeine-free",
+   "fresh",
+   "not-sweet",
+   "quick",
+   "vegan"
+  ],
+  "note": "Fresh leaves, not a bag. Settles a heavy lunch.",
+  "premade": false
+ },
+ {
+  "id": "iced-latte",
+  "name": "Iced Latte",
+  "category": "cold",
+  "price": 4.1,
+  "prep_minutes": 2,
+  "tags": [
+   "cold",
+   "caffeine",
+   "milky",
+   "quick"
+  ],
+  "note": "Shots pulled over ice so it never tastes watery.",
+  "premade": false
+ },
+ {
+  "id": "cold-brew",
+  "name": "Cold Brew",
+  "category": "cold",
+  "price": 4.0,
+  "prep_minutes": 1,
+  "tags": [
+   "cold",
+   "caffeine",
+   "strong",
+   "not-sweet",
+   "quick",
+   "vegan"
+  ],
+  "note": "18-hour steep. Smooth, and poured straight from the tap.",
+  "premade": true
+ },
+ {
+  "id": "almond-croissant",
+  "name": "Almond Croissant",
+  "category": "pastry",
+  "price": 3.9,
+  "prep_minutes": 1,
+  "tags": [
+   "sweet",
+   "pastry",
+   "nuts",
+   "quick",
+   "indulgent"
+  ],
+  "note": "Twice-baked with frangipane. Gone by 11am most days.",
+  "premade": true
+ },
+ {
+  "id": "butter-croissant",
+  "name": "Butter Croissant",
+  "category": "pastry",
+  "price": 3.2,
+  "prep_minutes": 1,
+  "tags": [
+   "pastry",
+   "not-sweet",
+   "quick",
+   "classic"
+  ],
+  "note": "Laminated over three days. Shatters properly.",
+  "premade": true
+ },
+ {
+  "id": "banana-bread",
+  "name": "Toasted Banana Bread",
+  "category": "pastry",
+  "price": 4.2,
+  "prep_minutes": 3,
+  "tags": [
+   "sweet",
+   "vegan",
+   "toasted",
+   "comfort"
+  ],
+  "note": "Vegan, and better toasted with a smear of salted butter alternative.",
+  "premade": false
+ },
+ {
+  "id": "avo-toast",
+  "name": "Avocado Toast",
+  "category": "food",
+  "price": 8.5,
+  "prep_minutes": 7,
+  "tags": [
+   "savoury",
+   "vegan",
+   "high-protein",
+   "sourdough",
+   "filling"
+  ],
+  "note": "Sourdough, chilli, lime, dukkah. Add a poached egg for \u00a31.50.",
+  "premade": false
+ },
+ {
+  "id": "halloumi-wrap",
+  "name": "Halloumi Wrap",
+  "category": "food",
+  "price": 9.2,
+  "prep_minutes": 8,
+  "tags": [
+   "savoury",
+   "vegetarian",
+   "high-protein",
+   "filling",
+   "warm"
+  ],
+  "note": "Grilled halloumi, harissa yoghurt, pickled slaw.",
+  "premade": false
+ },
+ {
+  "id": "granola-bowl",
+  "name": "Granola & Yoghurt",
+  "category": "food",
+  "price": 6.4,
+  "prep_minutes": 2,
+  "tags": [
+   "sweet",
+   "high-protein",
+   "light",
+   "quick",
+   "vegetarian"
+  ],
+  "note": "House-toasted oat granola, Greek yoghurt, seasonal compote.",
+  "premade": false
+ },
+ {
+  "id": "soup-day",
+  "name": "Soup of the Day",
+  "category": "food",
+  "price": 7.0,
+  "prep_minutes": 4,
+  "tags": [
+   "warm",
+   "savoury",
+   "vegan",
+   "filling",
+   "comfort"
+  ],
+  "note": "Today: roast tomato and fennel, with a sourdough heel.",
+  "premade": false
+ }
+]
